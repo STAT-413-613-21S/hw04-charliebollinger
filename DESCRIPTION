@@ -4,6 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person(given = "Charlie",
            family = "Bollinger",
+           role = c("out", "cre"),
            email = "cb8884a@student.american.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Takes as input a vector x containing the first three numeric elements of this sequence and a positive (>0) integer n denoting the final nth element of the sequence to calculate.
