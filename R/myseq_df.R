@@ -3,7 +3,7 @@
 #' @param df tibble
 #'
 #' @return
-#' @export
+#' @export myseq_df
 #'
 
 myseq_df <- function(df){

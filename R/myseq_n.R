@@ -4,7 +4,7 @@
 #' @param n factor
 #'
 #' @return
-#' @export
+#' @export myseq_n
 #'
 #' @examples myseq_n(x = c(2, 3, 3), n = 3)
 
