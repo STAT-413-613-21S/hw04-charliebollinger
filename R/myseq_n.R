@@ -23,7 +23,7 @@ myseq_n <- function(x, n){
     stop("enter vector of length 3")
   } else {
     while (count < n){
-      xn = x3 + ((x1-x2)/n)
+      xn = x3 + ((x1-x2)/(count + 1))
       x1 = x2
       x2 = x3
       x3 = xn
