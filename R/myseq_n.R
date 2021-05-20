@@ -6,7 +6,8 @@
 #' @return
 #' @export
 #'
-#' @examples
+#' @examples myseq_n(x = c(2, 3, 3), n = 3)
+
 
 myseq_n <- function(x, n){
 
